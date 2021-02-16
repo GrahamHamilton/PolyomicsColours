@@ -17,6 +17,7 @@ polyomics_palettes_list <- function (...){
     `hot`   = polyomics_cols("Sunshine", "Pumpkin", "Pillarbox"),
     `mixed` = polyomics_cols("Lavender","University Blue", "Sunshine", "Pumpkin", "Pillarbox","Thistle"),
     `all` = polyomics_cols("University Blue","Burgundy","Turquiose","Cobalt","Lavender","Leaf","Moss","Pillarbox","Rust","Pumpkin","Sunshine","Sky Blue","Slate","Thistle","Grey","Light Grey","Dark Grey","Black"),
+    `colour_blind` = polyomics_cols("Lavender","Sunshine"),
     `grey`  = polyomics_cols("Light Grey", "Dark Grey", "Slate")
   )
   return(polyomics_palettes)
