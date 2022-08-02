@@ -1,4 +1,4 @@
-#' Polyomics Colour Palettes
+-#' Polyomics Colour Palettes
 #'
 #' @param ... Params set to NULL
 #'
